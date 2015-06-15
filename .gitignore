@@ -1,2 +1,4 @@
+# Archivos omitidos
 .DS_Store
 node_modules
+.directory
